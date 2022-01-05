@@ -1,0 +1,39 @@
+JENKINS SERVER
+
+sudo apt update
+sudo apt install openjdk-8-jdk
+sudo systemctl start jenkins
+
+THEN INSTALL JENKINS 
+
+wget -q -O - https://pkg.jenkins.io/debian-stable/jenkins.io.key | sudo apt-key add -
+sudo sh -c 'echo deb https://pkg.jenkins.io/debian-stable binary/ > /etc/apt/sources.list.d/jenkins.list'
+sudo apt-get update
+sudo apt-get install jenkins
+
+STAGING SERVER
+sudo apt install openjdk-8-jdk
+
+
+PRODUCTION SERVER
+sudo apt install openjdk-8-jdk
+ACH Software Information Technology Private Limited, Hyderabad
+
+Hi,
+
+As per the mail below, I am very much interested in the said job position.
+Please find the attachment of my resume
+Please find the below given details for the same
+
+
+
+Thanks & Regards,
+Shaik Sikindar
+Ph.No:- +91-9963743409
+
+
+
+
+
+
+https://rr2---sn-gwpa-itqd.googlevideo.com/videoplayback?expire=1640802841&ei=uVXMYb3BDYLBgwOv6LvoBg&ip=143.137.165.142&id=o-ABKZQBzO_FRD8Hbm9vIg8nS38l5mWXmJq1tKJ98iIjx8&itag=22&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&ns=vkMe4MRlNJoVYV_cyn9gYcAG&cnr=14&ratebypass=yes&dur=33789.167&lmt=1610280386175326&fexp=24001373,24007246&c=WEB&txp=6311222&n=dk0AWeneTdWiKQ&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRAIgVvBdDzr7JEqxlkeWMCV8axOVVk8GYA1j9OXwuy3TAzkCIHVdyyxVGfN5xcyEVjztmC9LnBMo1I8FiVzdfEwKejRG&title=DevOps%20Full%20Course%20%7C%20Learn%20DevOps%20In%2010%20Hours%20%7C%20DevOps%20Tutorial%20For%20Beginners%20%7C%20DevOps%20%7C%20Simplilearn&redirect_counter=1&rm=sn-ab5yy7z&req_id=ca5a5ec256b8a3ee&cms_redirect=yes&ipbypass=yes&mh=OM&mip=2409:4070:478c:a044:bde9:220b:45eb:613&mm=31&mn=sn-gwpa-itqd&ms=au&mt=1640798724&mv=m&mvi=4&pl=41&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgMM5e0okC0skwrm7cDnJb2Xaue_Io9brFXdMZ38hk5nACIBnu2ndoAgMJJQwpv1iuaL7ELrHeyATM_5dwalxRo7tt&ir=1&rr=12

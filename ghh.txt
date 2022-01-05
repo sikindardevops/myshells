@@ -1,0 +1,16 @@
+find -L /var/sample -name "*si"
+
+find /var/sample -name *
+
+find /var/sample -name * | greap  "*@*"
+
+grep -rnw '/var/sample/' -e '
+
+
+- name: Sample
+  hosts: local_host
+  tasks:
+     - name: shell command
+       shell: echo "welcome"
+
+

@@ -1,0 +1,13 @@
+- name: download zzip source
+  win_get_url:
+    url: "{{ zlib_url}}"
+    dest: "{{ boost_wordir }}"
+  register: download_ziplb
+  until: dowload_ziplb is successed
+  
+
+- name: unzip file
+  ansible.builtion.unarchive:
+    src: /download_ziplb
+    dest: /var/lib/sample
+
